@@ -1,4 +1,4 @@
-# 🚦 Traffic Light System Using Raspberry Pi Pico and 7-Segment Display
+## 🚦 Traffic Light System Using Raspberry Pi Pico and 7-Segment Display
 
 A smart traffic management system prototype using Raspberry Pi Pico.
 
