@@ -3,8 +3,7 @@
 
 <br>
 
-- [🔗
-My project](https://wokwi.com/projects/435639140160935937)
+- [🔗My project](https://wokwi.com/projects/435639140160935937)
 
 
 ## 📖 Introduction
@@ -155,3 +154,4 @@ This project successfully demonstrates a **practical, cost-effective solution** 
 
 ### 🌟 Impact Potential
 This technology can contribute to **smarter cities** and **more sustainable communities** by reducing energy waste and improving public lighting efficiency.
+
