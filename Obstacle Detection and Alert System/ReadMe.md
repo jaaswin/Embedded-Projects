@@ -12,6 +12,12 @@
 - [🔗
 My project](https://wokwi.com/projects/437461592162958337)
 
+``` bash
+https://wokwi.com/projects/437461592162958337
+
+```
+
+
 ## 📖 Introduction
 
 Obstacle detection is a critical technology in modern automation, robotics, and safety systems. Traditional proximity warning systems often lack multi-sensory feedback, reducing their effectiveness in real-world scenarios.
@@ -87,24 +93,6 @@ BUZZER: GP15 → Buzzer(+) → Buzzer(-) → GND
 ---
 
 ## ⚙️ Working Principle
-
-### 🔄 System Operation Flow
-```mermaid
-graph TD
-    A[System Start] --> B[Trigger Ultrasound]
-    B --> C[Receive Echo]
-    C --> D[Calculate Distance]
-    D --> E{Distance ≤ 100cm?}
-    E -->|Yes| F[Activate Alerts]
-    E -->|No| G[Clear Alerts]
-    F --> H[LED ON + Buzzer ON]
-    G --> I[LED OFF + Buzzer OFF]
-    H --> J[Display "Object Detected"]
-    I --> K[Display "No Object Nearby"]
-    J --> L[Wait 0.5s]
-    K --> L
-    L --> B
-```
 
 ### 📊 Alert Threshold System
 | Distance Range | Alert Level | LED | Buzzer | LCD Message |
@@ -226,3 +214,4 @@ This project demonstrates essential embedded systems concepts:
 This system demonstrates how **affordable embedded technology** can create practical safety solutions with real-world applications in automotive, industrial, and assistive domains.
 
 ---
+
