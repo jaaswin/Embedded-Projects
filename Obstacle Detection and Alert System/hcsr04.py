@@ -1,3 +1,5 @@
+#librarie file hcsr04
+
 from machine import Pin, time_pulse_us
 from time import sleep_us
 
@@ -20,3 +22,4 @@ class HCSR04:
             return round(distance, 2)
         except OSError:
             return None
+
