@@ -89,27 +89,6 @@ GP11 → Button → GND (Pull-up enabled)
 
 ## ⚙️ Working Principle
 
-### 🔄 System Operation Flow
-```mermaid
-graph TD
-    A[System Start] --> B[Load Saved Password]
-    B --> C[Display "Enter Password"]
-    C --> D{User Input}
-    D -->|Correct Password| E[Access Granted]
-    D -->|Wrong Password| F[Access Denied]
-    D -->|Reset Button Pressed| G[Password Reset Mode]
-    E --> H[Unlock Servo]
-    H --> I[Wait 3 Seconds]
-    I --> J[Relock Servo]
-    J --> C
-    F --> C
-    G --> K[Verify Old Password]
-    K -->|Correct| L[Set New Password]
-    K -->|Wrong| M[Return to Main]
-    L --> C
-    M --> C
-```
-
 ### ⌨️ Keypad Functions
 | Key | Function | Description |
 |-----|----------|-------------|
@@ -259,5 +238,6 @@ We welcome contributions to enhance this security system:
 - **Testing and validation**
 
 ---
+
 
 *Securing Your World, One Lock at a Time* 💫
