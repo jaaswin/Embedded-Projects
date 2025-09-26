@@ -7,7 +7,16 @@
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-success)
 
 ---
+<br>
 
+- [🔗
+My project](https://wokwi.com/projects/439003570471793665)
+
+``` bash
+https://wokwi.com/projects/439003570471793665
+
+```
+---
 ## 📖 Introduction
 
 In an era where security is paramount, traditional mechanical locks are increasingly being replaced by intelligent electronic systems. This project implements a **smart password-based lock system** using Raspberry Pi Pico that provides enhanced security, user convenience, and flexible access management.
@@ -241,3 +250,4 @@ We welcome contributions to enhance this security system:
 
 
 *Securing Your World, One Lock at a Time* 💫
+
