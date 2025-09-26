@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "author": "Aswin Ash",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-pi-pico-w",
+      "id": "pico",
+      "top": -51.25,
+      "left": 51.55,
+      "attrs": { "env": "micropython-20241129-v1.24.1" }
+    },
+    { "type": "wokwi-servo", "id": "servo1", "top": 17.2, "left": 182.4, "attrs": {} },
+    { "type": "wokwi-membrane-keypad", "id": "keypad1", "top": -194, "left": -388, "attrs": {} },
+    {
+      "type": "wokwi-lcd1602",
+      "id": "lcd1",
+      "top": -204.8,
+      "left": 5.6,
+      "attrs": { "pins": "i2c" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": 169.4,
+      "left": -67.2,
+      "attrs": { "color": "green", "xray": "1" }
+    }
+  ],
+  "connections": [
+    [ "keypad1:R1", "pico:GP0", "green", [ "v67.2", "h201.6", "v-268.8" ] ],
+    [ "keypad1:R2", "pico:GP1", "green", [ "v57.6", "h182", "v-249.6" ] ],
+    [ "keypad1:R3", "pico:GP2", "green", [ "v48", "h162.9", "v-211.2" ] ],
+    [ "keypad1:R4", "pico:GP3", "green", [ "v38.4", "h143.8", "v-192" ] ],
+    [ "keypad1:C1", "pico:GP4", "green", [ "v28.8", "h172.7", "v-182.4" ] ],
+    [ "keypad1:C2", "pico:GP5", "green", [ "v19.2", "h172.8", "v-163.2" ] ],
+    [ "keypad1:C3", "pico:GP6", "green", [ "v9.6", "h172.65", "v-144" ] ],
+    [ "keypad1:C4", "pico:GP7", "green", [ "v-9.6", "h172.5", "v-115.2" ] ],
+    [ "servo1:V+", "pico:3V3", "green", [ "h-67.2", "v0.1" ] ],
+    [ "servo1:GND", "pico:GND.7", "black", [ "h-48", "v-38.4" ] ],
+    [ "servo1:PWM", "pico:GP10", "green", [ "h0" ] ],
+    [ "lcd1:VCC", "pico:3V3", "red", [ "h-48", "v-76.7", "h403.2", "v230.4" ] ],
+    [ "lcd1:GND", "pico:GND.1", "black", [ "h-28.8", "v9.6" ] ],
+    [ "lcd1:SDA", "pico:GP8", "green", [ "h-9.6", "v221" ] ],
+    [ "lcd1:SCL", "pico:GP9", "green", [ "h-48", "v211.5" ] ],
+    [ "btn1:1.r", "pico:GP11", "green", [ "v0" ] ],
+    [ "btn1:2.r", "pico:GND.4", "green", [ "h29", "v-95.8" ] ]
+  ],
+  "dependencies": {}
+}
