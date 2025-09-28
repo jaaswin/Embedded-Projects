@@ -6,6 +6,15 @@
 ![Gas Detection](https://img.shields.io/badge/Gas-Detection-orange)
 ![Automated Ventilation](https://img.shields.io/badge/Automated-Ventilation-green)
 
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/443352793564663809" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
+  </a>
+</p>
+
+---
 ## 📋 Abstract
 
 This project implements an **intelligent gas and smoke detection system** that automatically monitors air quality and triggers safety measures when hazardous conditions are detected. Using an MQ-2 gas sensor, the system detects dangerous gases including LPG, Propane, Methane, Hydrogen, and smoke. When concentrations exceed safe thresholds, it activates multiple safety protocols: audio-visual alerts and automated ventilation to protect occupants and prevent accidents.
@@ -243,3 +252,4 @@ We welcome contributions to enhance this safety system:
 - **Testing and calibration data**
 
 ---
+
