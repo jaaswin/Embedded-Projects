@@ -165,6 +165,3 @@ The traffic light system serves as an excellent foundation for understanding int
 
 ⭐ If you find this project helpful, please give it a star! ⭐
 
-
-_Last updated: sep 2025_  
-_Compatible with Raspberry Pi Pico and MicroPython_
