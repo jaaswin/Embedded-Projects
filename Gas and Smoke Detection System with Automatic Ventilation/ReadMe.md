@@ -253,3 +253,7 @@ We welcome contributions to enhance this safety system:
 
 ---
 
+
+⭐ If you find this project helpful, please give it a star! ⭐
+
+
