@@ -10,10 +10,11 @@ This project implements an **Automatic Water Level Controller** using Raspberry 
 > Click the button below to jump straight into my project.
 
 <p align="center">
-  <a href="https://wokwi.com/projects/443352793564663809" target="_blank">
-    <img src="https://wokwi.com/projects/443345805846860801" alt="Open Project Badge"/>
+  <a href="https://wokwi.com/projects/443345805846860801" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
   </a>
 </p>
+
 
 
 ### ✨ Key Features
@@ -151,4 +152,5 @@ This project implements an **Automatic Water Level Controller** using Raspberry 
 We welcome contributions! Please feel free to submit pull requests, report bugs, or suggest new features.
 
 **⭐ If this project helped you, please give it a star on GitHub!**
+
 
