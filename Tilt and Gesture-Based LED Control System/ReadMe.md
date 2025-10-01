@@ -5,6 +5,15 @@ This embedded systems project demonstrates a real-time tilt and gesture recognit
 
 
 ---
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/437457996173988865" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
+  </a>
+</p>
+
+---
 ## Introduction
 
 Motion sensing and gesture recognition have become fundamental technologies in modern electronics, from smartphone interfaces to advanced robotics. This project creates an intuitive control system that translates physical movements into digital commands using the MPU6050 accelerometer and gyroscope sensor paired with a Raspberry Pi Pico.
@@ -191,6 +200,7 @@ This Tilt and Gesture-Based LED Control System successfully demonstrates the int
 The system provides an excellent platform for learning embedded systems development, with potential applications spanning from educational tools to professional automation systems. The modular design allows for easy expansion and customization based on specific requirements.
 
 ---
+
 
 
 *Feel free to contribute to this project by submitting issues or pull requests!*
