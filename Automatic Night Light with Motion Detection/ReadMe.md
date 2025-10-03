@@ -3,9 +3,16 @@
 ## 1. Project Overview
 
 This project implements an intelligent night light system that automatically illuminates when motion is detected in dark environments. The system combines light sensing and motion detection to create an energy-efficient lighting solution.
+---
+> Click the button below to jump straight into my project.
 
-![System Block Diagram](https://via.placeholder.com/600x200?text=LDR+%2B+PIR+%E2%86%92+Raspberry+Pi+Pico+%E2%86%92+LED)
+<p align="center">
+  <a href="https://wokwi.com/projects/443811464678502401" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
+  </a>
+</p>
 
+---
 ## 2. Objective
 
 The purpose of this project is to design a simple embedded system that automatically turns on an LED when motion is detected in a dark environment. This project demonstrates the integration of LDR (light sensor) and PIR motion sensor with a Raspberry Pi Pico, providing hands-on experience with sensor interfacing and conditional logic programming.
@@ -156,6 +163,7 @@ Through this project, learners gain practical experience with:
 The project serves as an excellent foundation for more advanced home automation and IoT projects, providing a solid understanding of how to make embedded systems responsive to environmental conditions.
 
 ---
+
 
 
 *Feel free to contribute to this project by submitting issues or pull requests on GitHub!*        
