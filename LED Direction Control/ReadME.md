@@ -4,26 +4,6 @@ An intelligent light-direction indicator using two LDR (Light Dependent Resistor
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Hardware Required](#hardware-required)  
-- [Circuit / Wiring](#circuit--wiring)  
-- [Software](#software)  
-  - [Installation](#installation)  
-  - [Usage](#usage)  
-  - [Calibration](#calibration)  
-- [How It Works](#how-it-works)  
-- [Configuration Options](#configuration-options)  
-- [Troubleshooting](#troubleshooting)  
-- [Possible Enhancements](#possible-enhancements)  
-- [Repository Structure](#repository-structure)  
-- [Contributing](#contributing)  
-- [License & Credits](#license--credits)
-
----
-
 ## Project Overview
 
 This project demonstrates analog sensor interfacing, threshold-based decision logic, and sequential LED control using a Raspberry Pi Pico running MicroPython. The Pico reads two LDRs via ADC inputs, compares light intensity, and animates a 6-LED array to indicate the direction of the dominant light source.
@@ -76,50 +56,6 @@ For a detailed wiring diagram, see Documentation/Circuit_Diagram.fzz (Fritzing).
 
 ---
 
-## Software
-
-This project uses MicroPython running on the Raspberry Pi Pico.
-
-Included scripts:
-- `Source_Code/main.py` — main application (sensor read, decision, LED animation)  
-- `Source_Code/calibration.py` — simple interactive calibration helper
-
-### Installation
-
-1. Flash MicroPython UF2 to the Pico:
-   - Download the latest MicroPython firmware for the Raspberry Pi Pico from micropython.org.
-   - Follow Pico instructions to flash the UF2 file.
-
-2. Copy files to the Pico:
-   - Use Thonny, ampy, rshell, or the Pico's mass storage mode to copy `main.py` (and optionally `calibration.py`) to the device.
-
-3. Power the Pico (via USB). Open the serial REPL (e.g., Thonny) to view prints and debug output.
-
-### Usage
-
-- After copying `main.py` to the Pico, it will run automatically on boot.
-- The program continuously samples both LDRs and:
-  - If |left - right| > THRESHOLD, it triggers a directional animation.
-  - If the difference is less than or equal to THRESHOLD, all LEDs stay off.
-- Use `calibration.py` to determine a good THRESHOLD for your environment.
-
-Example snippet from `main.py` (already included in the repository):
-
-```python
-# (Example usage)
-# Place main.py on the Pico and power it. Open serial monitor to see debug prints.
-```
-
-### Calibration
-
-Run `calibration.py` (from the Pico REPL or via Thonny) and follow prompts:
-
-1. Cover the RIGHT LDR and press Enter — script captures one reading.
-2. Cover the LEFT LDR and press Enter — script captures the other reading.
-3. Script outputs a recommended threshold (e.g., 30% of a measured max). Adjust `THRESHOLD` constant in `main.py` accordingly.
-
----
-
 ## How It Works (high level)
 
 1. Read averaged ADC values from the two LDR channels.
@@ -169,32 +105,6 @@ Calibration is recommended after deploying in the intended environment.
 
 ---
 
-## Repository Structure
-
-LDR-LED-Direction-Control/
-- Documentation/
-  - README.md
-  - Circuit_Diagram.fzz
-  - Technical_Specifications.pdf
-- Source_Code/
-  - main.py
-  - calibration.py
-  - requirements.txt
-- Hardware/
-  - BOM.csv
-  - Schematics/
-  - PCB_Design/
-- Media/
-  - Demo_Videos/
-  - Images/
-  - Working_Prototype/
-- Additional_Resources/
-  - Datasheets/
-  - Tutorials/
-  - References/
-
----
-
 ## Contributing
 
 Contributions are welcome:
@@ -218,3 +128,4 @@ Replace the author name and license as appropriate for your repository.
 
 Enjoy experimenting with the LDR directional LED controller!  
 Happy hacking — point some light and watch the LEDs follow.
+
