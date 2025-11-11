@@ -29,15 +29,6 @@ Whether you’re a **student**, **developer**, or **hobbyist**, you’ll find pr
 
 ---
 
-## 🚀 How to Explore
-1. Browse the project folders listed above.  
-2. Open any folder to find code, circuit diagrams, and documentation.  
-3. Check for **Wokwi simulation links** to view and run the project online.  
-4. Try modifying the project or build it on real hardware!  
-
-💡 *These projects are designed to help learners understand embedded systems concepts easily and practically.*
-
----
 
 ## 🧠 What You’ll Learn
 - Interfacing sensors, modules, and actuators  
