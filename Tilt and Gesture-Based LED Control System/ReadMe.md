@@ -1,10 +1,4 @@
 # Tilt and Gesture-Based LED Control System using MPU6050 and Raspberry Pi Pico
-
-## Project Overview
-This embedded systems project demonstrates a real-time tilt and gesture recognition system using the MPU6050 6-axis IMU (Inertial Measurement Unit) sensor with a Raspberry Pi Pico microcontroller. The system interprets orientation data to control LEDs, providing visual feedback for different gesture inputs. This implementation showcases practical motion sensing applications in modern embedded systems.
-
-
----
 > Click the button below to jump straight into my project.
 
 <p align="center">
@@ -12,6 +6,18 @@ This embedded systems project demonstrates a real-time tilt and gesture recognit
     <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
   </a>
 </p>
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/437457996173988865)
+
+``` bash
+https://wokwi.com/projects/437457996173988865
+
+```
+
+## Project Overview
+This embedded systems project demonstrates a real-time tilt and gesture recognition system using the MPU6050 6-axis IMU (Inertial Measurement Unit) sensor with a Raspberry Pi Pico microcontroller. The system interprets orientation data to control LEDs, providing visual feedback for different gesture inputs. This implementation showcases practical motion sensing applications in modern embedded systems.
 
 ---
 ## Introduction
@@ -204,3 +210,4 @@ The system provides an excellent platform for learning embedded systems developm
 
 
 *Feel free to contribute to this project by submitting issues or pull requests!*
+
