@@ -1,11 +1,4 @@
 # 🚨 Smart Gas and Smoke Detection System  
-## Automated Safety Monitoring with Raspberry Pi Pico
-
-![Safety System](https://img.shields.io/badge/Safety-System-red)
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi-Pico-important)
-![Gas Detection](https://img.shields.io/badge/Gas-Detection-orange)
-![Automated Ventilation](https://img.shields.io/badge/Automated-Ventilation-green)
-
 > Click the button below to jump straight into my project.
 
 <p align="center">
@@ -13,6 +6,23 @@
     <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
   </a>
 </p>
+
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/443352793564663809)
+
+``` bash
+https://wokwi.com/projects/443352793564663809
+
+```
+## Automated Safety Monitoring with Raspberry Pi Pico
+
+![Safety System](https://img.shields.io/badge/Safety-System-red)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi-Pico-important)
+![Gas Detection](https://img.shields.io/badge/Gas-Detection-orange)
+![Automated Ventilation](https://img.shields.io/badge/Automated-Ventilation-green)
+
 
 ---
 ## 📋 Abstract
