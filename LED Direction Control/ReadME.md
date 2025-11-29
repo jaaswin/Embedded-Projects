@@ -1,8 +1,4 @@
 # LDR Sensor–Based LED Direction Control (Raspberry Pi Pico)
-
-An intelligent light-direction indicator using two LDR (Light Dependent Resistor) sensors and a Raspberry Pi Pico. Six LEDs arranged in a line light sequentially to indicate the direction of the stronger light source: left-to-right when the left sensor is brighter, and right-to-left when the right sensor is brighter. Implemented in MicroPython.
----
-
 > Click the button below to jump straight into my project.
 
 <p align="center">
@@ -11,7 +7,16 @@ An intelligent light-direction indicator using two LDR (Light Dependent Resistor
   </a>
 </p>
 
+<br>
 
+- [🔗
+My project](https://wokwi.com/projects/445709043753958401)
+
+``` bash
+https://wokwi.com/projects/445709043753958401
+
+```
+An intelligent light-direction indicator using two LDR (Light Dependent Resistor) sensors and a Raspberry Pi Pico. Six LEDs arranged in a line light sequentially to indicate the direction of the stronger light source: left-to-right when the left sensor is brighter, and right-to-left when the right sensor is brighter. Implemented in MicroPython.
 ---
 
 ## Project Overview
@@ -138,5 +143,6 @@ Replace the author name and license as appropriate for your repository.
 
 Enjoy experimenting with the LDR directional LED controller!  
 Happy hacking — point some light and watch the LEDs follow.
+
 
 
