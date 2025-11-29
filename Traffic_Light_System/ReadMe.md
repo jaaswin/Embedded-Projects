@@ -1,12 +1,22 @@
 ## 🚦 Traffic Light System Using Raspberry Pi Pico and 7-Segment Display
 
-A smart traffic management system prototype using Raspberry Pi Pico.
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/436559267534476289" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
+  </a>
+</p>
 
 <br>
 
 - [🔗
 My project](https://wokwi.com/projects/436559267534476289)
 
+``` bash
+https://wokwi.com/projects/436559267534476289
+
+```
 ---
 
 
@@ -164,4 +174,5 @@ The traffic light system serves as an excellent foundation for understanding int
 
 
 ⭐ If you find this project helpful, please give it a star! ⭐
+
 
