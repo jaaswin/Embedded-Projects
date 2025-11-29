@@ -1,8 +1,4 @@
 # Automatic Night Light Using Raspberry Pi Pico
-
-## 1. Project Overview
-
-This project implements an intelligent night light system that automatically illuminates when motion is detected in dark environments. The system combines light sensing and motion detection to create an energy-efficient lighting solution.
 ---
 > Click the button below to jump straight into my project.
 
@@ -12,6 +8,19 @@ This project implements an intelligent night light system that automatically ill
   </a>
 </p>
 
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/443811464678502401)
+
+``` bash
+https://wokwi.com/projects/443811464678502401
+
+```
+
+## 1. Project Overview
+
+This project implements an intelligent night light system that automatically illuminates when motion is detected in dark environments. The system combines light sensing and motion detection to create an energy-efficient lighting solution.
 ---
 ## 2. Objective
 
@@ -167,3 +176,4 @@ The project serves as an excellent foundation for more advanced home automation 
 
 
 *Feel free to contribute to this project by submitting issues or pull requests on GitHub!*        
+
