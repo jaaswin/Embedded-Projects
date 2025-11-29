@@ -1,12 +1,13 @@
 # 🔒 Password Lock Security System
-## Smart Access Control using Raspberry Pi Pico
-
-![Security System](https://img.shields.io/badge/Security-System-red)
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi-Pico-important)
-![Access Control](https://img.shields.io/badge/Access-Control-blue)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-success)
-
 ---
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/439003570471793665" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
+  </a>
+</p>
+
 <br>
 
 - [🔗
@@ -16,6 +17,13 @@ My project](https://wokwi.com/projects/439003570471793665)
 https://wokwi.com/projects/439003570471793665
 
 ```
+## Smart Access Control using Raspberry Pi Pico
+
+![Security System](https://img.shields.io/badge/Security-System-red)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi-Pico-important)
+![Access Control](https://img.shields.io/badge/Access-Control-blue)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-success)
+
 ---
 ## 📖 Introduction
 
@@ -250,4 +258,5 @@ We welcome contributions to enhance this security system:
 
 
 *Securing Your World, One Lock at a Time* 💫
+
 
