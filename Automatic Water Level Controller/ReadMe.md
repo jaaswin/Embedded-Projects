@@ -1,12 +1,5 @@
 # 🚀 Automatic Water Level Controller
 
-
-## 🎯 Project Overview
-
-This project implements an **Automatic Water Level Controller** using Raspberry Pi Pico that intelligently manages water tanks by monitoring levels and controlling pumps automatically. The system prevents overflow, saves electricity, and reduces human intervention in water management.
-
----
-
 > Click the button below to jump straight into my project.
 
 <p align="center">
@@ -15,7 +8,23 @@ This project implements an **Automatic Water Level Controller** using Raspberry 
   </a>
 </p>
 
+<br>
 
+- [🔗
+My project](https://wokwi.com/projects/443345805846860801)
+
+``` bash
+https://wokwi.com/projects/443345805846860801
+
+```
+---
+
+
+## 🎯 Project Overview
+
+This project implements an **Automatic Water Level Controller** using Raspberry Pi Pico that intelligently manages water tanks by monitoring levels and controlling pumps automatically. The system prevents overflow, saves electricity, and reduces human intervention in water management.
+
+---
 
 ### ✨ Key Features
 - ✅ **Real-time water level monitoring** using ultrasonic sensor
@@ -152,5 +161,6 @@ This project implements an **Automatic Water Level Controller** using Raspberry 
 We welcome contributions! Please feel free to submit pull requests, report bugs, or suggest new features.
 
 **⭐ If this project helped you, please give it a star on GitHub!**
+
 
 
