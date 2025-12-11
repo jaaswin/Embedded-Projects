@@ -38,13 +38,6 @@ Whether you’re a **student**, **developer**, or **hobbyist**, you’ll find pr
 - Designing your own embedded systems  
 
 
----
-
-##  Support & Contribution
-If you enjoy these projects:
--  **Star this repository** to show your support  
--  **Share** it with friends or classmates  
--  **Contribute** by adding your own project ideas  
 
 ---
 
