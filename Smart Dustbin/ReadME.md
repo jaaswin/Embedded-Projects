@@ -1,8 +1,21 @@
 # Smart Dustbin Using ESP32
+> Click the button below to jump straight into my project.
 
-A touch-free waste-disposal system designed using the ESP32 microcontroller, ultrasonic sensing, and a servo-operated lid. The project promotes hygiene by eliminating physical contact with the dustbin and demonstrates core embedded-IoT engineering principles.
+<p align="center">
+  <a href="https://wokwi.com/projects/450055741350402049" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
+  </a>
+</p>
 
----
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/450055741350402049)
+
+``` bash
+https://wokwi.com/projects/450055741350402049
+
+```
 
 ##  Overview
 
@@ -90,3 +103,4 @@ This ensures a clean, hygienic, fully automatic waste-disposal process.
 ##  Conclusion
 
 This Smart Dustbin project demonstrates how embedded systems and MicroPython can be combined to build real-world automation solutions. It is simple, scalable, and an excellent foundation for more advanced IoT applications.
+
