@@ -1,5 +1,18 @@
 #  Embedded Projects Collection
+> Click the button below to jump straight into my projects.
 
+<p align="center">
+  <a href="https://wokwi.com/makers/jaaswin" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Projects Badge"/>
+  </a>
+</p>
+<br>
+
+
+``` bash
+https://wokwi.com/makers/jaaswin
+
+```
 Welcome to my **Embedded Projects Repository** — a creative space featuring a variety of **mini embedded system projects** built using **Raspberry Pi Pico**, **STM32**, and **Arduino** microcontrollers.
 
 This collection showcases how **hardware and code** come together to bring real-world ideas to life — using sensors, actuators, and logical design to create smart and interactive systems.
