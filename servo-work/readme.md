@@ -1,5 +1,22 @@
 # Servo Motor Control Using Joystick with OLED Display
+> Click the button below to jump straight into my project.
 
+<p align="center">
+  <a href="https://wokwi.com/projects/452383171184576513" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
+  </a>
+</p>
+
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/452383171184576513)
+
+``` bash
+https://wokwi.com/projects/452383171184576513
+
+```
+---
 
 ## Introduction
 
@@ -68,4 +85,5 @@ When the joystick is moved, the potentiometer inside it changes resistance, prod
 ## Conclusion
 
 This project successfully demonstrates servo motor control using a joystick and Raspberry Pi Pico with real-time OLED feedback. It combines analog input processing, PWM generation, and I2C display interfacing, making it an excellent learning platform for embedded systems and robotics enthusiasts.
+
 
