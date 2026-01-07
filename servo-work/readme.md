@@ -2,7 +2,7 @@
 > Click the button below to jump straight into my project.
 
 <p align="center">
-  <a href="https://wokwi.com/projects/452383171184576513" target="_blank">
+  <a href="https://wokwi.com/projects/452380786247314433" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
   </a>
 </p>
@@ -10,10 +10,10 @@
 <br>
 
 - [🔗
-My project](https://wokwi.com/projects/452383171184576513)
+My project](https://wokwi.com/projects/452380786247314433)
 
 ``` bash
-https://wokwi.com/projects/452383171184576513
+https://wokwi.com/projects/452380786247314433
 
 ```
 ---
