@@ -1,6 +1,24 @@
 
 # Joystick Controlled Servo Motor Angle and LED Brightness with OLED Display using Raspberry Pi Pico
 
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/452380786247314433" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open My Project Badge"/>
+  </a>
+</p>
+
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/452380786247314433)
+
+``` bash
+https://wokwi.com/projects/452380786247314433
+
+```
+
 ---
 
 ## Introduction
@@ -122,3 +140,4 @@ This project clearly shows how the same PWM technique controls different actuato
 This project successfully demonstrates how PWM can be used to control different devices using a single input device. The joystick provides intuitive control, while the Raspberry Pi Pico efficiently handles ADC, PWM generation, and OLED display. Through this project, the concept of PWM becomes clear by observing its effect on LED brightness and servo motor angle.
 
 ---
+
