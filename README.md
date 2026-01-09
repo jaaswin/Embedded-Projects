@@ -43,12 +43,6 @@ Whether you’re a **student**, **developer**, or **hobbyist**, you’ll find pr
 ---
 
 
-##  What You’ll Learn
-- Interfacing sensors, modules, and actuators  
-- Writing and optimizing Embedded C / MicroPython code  
-- Understanding real-time embedded control logic  
-- Simulating circuits and debugging hardware  
-- Designing your own embedded systems  
 
 
 
