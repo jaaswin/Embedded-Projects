@@ -6,6 +6,7 @@
   </a>
 </p>
 <br>
+
 ## Project Overview
 This project is an **Offline Voice Control System** developed using the VC-02 AI Thinker Voice Recognition Module. The system controls different colored LEDs and a buzzer using predefined voice commands without requiring an internet connection.
 
@@ -51,20 +52,6 @@ The VC-02 AI Thinker module is trained with predefined voice commands using the 
 4. The controller checks the received command.
 5. Corresponding LED or buzzer is activated.
 
----
-
-## Voice Commands Used
-
-| Voice Command | Action |
-|---|---|
-| "Red Light On" | Turns ON Red LED |
-| "Red Light Off" | Turns OFF Red LED |
-| "Green Light On" | Turns ON Green LED |
-| "Green Light Off" | Turns OFF Green LED |
-| "Blue Light On" | Turns ON Blue LED |
-| "Blue Light Off" | Turns OFF Blue LED |
-| "Buzzer On" | Activates buzzer |
-| "Buzzer Off" | Deactivates buzzer |
 
 ---
 
