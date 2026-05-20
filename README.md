@@ -9,7 +9,7 @@
 <br>
 <p align="center">
   <a href="https://www.youtube.com/@projects-ash" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="My YouTube channel  Badge"/>
+       <img src="https://img.shields.io/badge/YouTube-%F0%9F%8E%AC-red?style=for-the-badge&logo=youtube" alt="My YouTube channel Badge"/>
   </a>
 </p>
 <br>
