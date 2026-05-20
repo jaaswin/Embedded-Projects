@@ -1,5 +1,10 @@
 # Offline Voice Control System using VC-02 AI Thinker Module
-
+<p align="center">
+  <a href="https://youtu.be/4Jcc8QunGvA?si=Zh0MfngLKT0HlIfz" target="_blank">
+       <img src="https://img.shields.io/badge/YouTube-%F0%9F%8E%AC-red?style=for-the-badge&logo=youtube" alt="My YouTube channel Badge"/>
+  </a>
+</p>
+<br>
 ## Project Overview
 This project is an **Offline Voice Control System** developed using the VC-02 AI Thinker Voice Recognition Module. The system controls different colored LEDs and a buzzer using predefined voice commands without requiring an internet connection.
 
