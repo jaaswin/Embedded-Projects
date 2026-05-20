@@ -1,4 +1,5 @@
 # Offline Voice Control System using VC-02 AI Thinker Module
+> Click the button below to jump straight into my projects.
 <p align="center">
   <a href="https://youtu.be/4Jcc8QunGvA?si=Zh0MfngLKT0HlIfz" target="_blank">
        <img src="https://img.shields.io/badge/YouTube-%F0%9F%8E%AC-red?style=for-the-badge&logo=youtube" alt="My YouTube channel Badge"/>
